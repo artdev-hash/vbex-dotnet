@@ -1,0 +1,12 @@
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\bin\Debug\vbex-dotnet.exe
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\bin\Debug\vbex-dotnet.pdb
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\bin\Debug\vbex-dotnet.xml
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex_dotnet.Form1.resources
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex_dotnet.Resources.resources
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex-dotnet.vbproj.GenerateResource.Cache
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex-dotnet.exe
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex-dotnet.xml
+C:\Users\JERWINMORALES\AppData\Local\Temporary Projects\vbex-dotnet\obj\x86\Debug\vbex-dotnet.pdb
+C:\Users\JERWINMORALES\documents\visual studio 2010\Projects\vbex-dotnet\vbex-dotnet\obj\x86\Debug\vbex-dotnet.exe
+C:\Users\JERWINMORALES\documents\visual studio 2010\Projects\vbex-dotnet\vbex-dotnet\obj\x86\Debug\vbex-dotnet.xml
+C:\Users\JERWINMORALES\documents\visual studio 2010\Projects\vbex-dotnet\vbex-dotnet\obj\x86\Debug\vbex-dotnet.pdb
