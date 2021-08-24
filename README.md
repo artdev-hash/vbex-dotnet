@@ -1,3 +1,5 @@
 # vbex-dotnet
 
-VB .NET exercise
+VB .NET exercise 
+
+Sample exercise that i remember in programming
