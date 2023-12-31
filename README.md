@@ -1,5 +1,7 @@
+<img src="./src/assets/image/vbex.png" align="center">
+
 # vbex-dotnet
 
 VB .NET exercise 
 
-Sample exercise that i remember in programming
+Compilation of exercises in Practicing Vb.net
